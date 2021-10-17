@@ -1,2 +1,2 @@
 # Java_Gallery
-A photo gallery graphically implemented in Java.
+A photo gallery is graphically implemented in Java
